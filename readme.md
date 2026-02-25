@@ -1,6 +1,6 @@
-# Code for ICLR 2026 Paper: "Incentive-aligned Multi-Source LLM Summaries"
+# Code for ICLR 2026 Paper: "Incentive-Aligned Multi-Source LLM Summaries"
 
-This folder contains the source code for the ICLR 2026 paper titled "Incentive-aligned Multi-Source LLM Summaries". The code allows for the replication of the experiments and results presented in the paper.
+This folder contains the source code for the ICLR 2026 paper titled "Incentive-Aligned Multi-Source LLM Summaries". The code allows for the replication of the experiments and results presented in the paper.
 
 ---
 
